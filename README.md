@@ -13,5 +13,3 @@
 
 
 ## HEJ123
->>>>>>> develop
->>>>>>> develop
