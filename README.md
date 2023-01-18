@@ -1,5 +1,5 @@
 ## README
 
-# Added by me Elias Holm hehe i fixed it 
+# Added by me Elias Holm 
 
 ### test
