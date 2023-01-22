@@ -35,3 +35,4 @@ Josef-test-branch
 #first commit of 3 commits in mo-test-rebase-branch
 
 #Second commit of 3 commits in mo-test-rebase-branch
+#Third commit of 3 commits in mo-test-rebase-branch
