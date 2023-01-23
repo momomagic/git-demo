@@ -37,3 +37,5 @@ Josef-test-branch
 #Second commit in target
 
 #Changes to be rewritten
+#Commit 1
+#Commit 1 part 2
